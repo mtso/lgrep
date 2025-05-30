@@ -6,3 +6,9 @@ A basic streaming log filter.
 
 - Groups related lines into multiline logs
 - Processes input as a stream
+
+## Installation
+
+```sh
+zig build install --prefix /usr/local
+```
