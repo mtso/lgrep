@@ -1,0 +1,11 @@
+foo bar baz
+SUSHI {
+  "foo": {
+    "bar": "baz"
+  }
+} {
+  "foo": {
+    "bar": "baz"
+  }
+}
+SUSHI hello world

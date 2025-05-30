@@ -1,0 +1,103 @@
+Response {
+  status: 200,
+  statusText: 'OK',
+  headers: Headers {
+    date: 'Fri, 30 May 2025 04:11:26 GMT',
+    expires: '-1',
+    'cache-control': 'private, max-age=0',
+    'content-type': 'text/html; charset=ISO-8859-1',
+    'content-security-policy-report-only': "object-src 'none';base-uri 'self';script-src 'nonce-DkKKgBNmUT9f26i2WCITRQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp",
+    'accept-ch': 'Sec-CH-Prefers-Color-Scheme',
+    p3p: 'CP="This is not a P3P policy! See g.co/p3phelp for more info."',
+    'content-encoding': 'gzip',
+    server: 'gws',
+    'x-xss-protection': '0',
+    'x-frame-options': 'SAMEORIGIN',
+    'set-cookie': 'AEC=AVh_V2j1EjfwDPbAvDt7jMaGB1a76ZJDfnXreUId1_VMd4O7WpLQvNWOxj4; expires=Wed, 26-Nov-2025 04:11:26 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=524=GJHeA8g4aL7XDHQc35BeywFSw6bLXJ5uCgKHanb4IQUgwJuswOAMk6PLlmRJwJw9qbw5s4SR82lmp_wdmjeIg3gEXLTCXYTdCvPMVOdrNmuwq9rfeAjlPRqP2ZNKzXztbhx6gIfK9QQ01NcuW33YHFUcZSzZElB90nC3174ELRwiYlFQFI7QAt8XQRWc3e9YTP4MhSiQDdWcOYMS7afJCqY; expires=Sat, 29-Nov-2025 04:11:26 GMT; path=/; domain=.google.com; HttpOnly',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    'transfer-encoding': 'chunked'
+  },
+  body: ReadableStream { locked: false, state: 'readable', supportsBYOB: true },
+  bodyUsed: false,
+  ok: true,
+  redirected: true,
+  type: 'cors',
+  url: 'https://www.google.com/'
+}
+SUSHI Response {
+  status: 200,
+  statusText: 'OK',
+  headers: Headers {
+    date: 'Fri, 30 May 2025 04:11:26 GMT',
+    expires: '-1',
+    'cache-control': 'private, max-age=0',
+    'content-type': 'text/html; charset=ISO-8859-1',
+    'content-security-policy-report-only': "object-src 'none';base-uri 'self';script-src 'nonce-DkKKgBNmUT9f26i2WCITRQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp",
+    'accept-ch': 'Sec-CH-Prefers-Color-Scheme',
+    p3p: 'CP="This is not a P3P policy! See g.co/p3phelp for more info."',
+    'content-encoding': 'gzip',
+    server: 'gws',
+    'x-xss-protection': '0',
+    'x-frame-options': 'SAMEORIGIN',
+    'set-cookie': 'AEC=AVh_V2j1EjfwDPbAvDt7jMaGB1a76ZJDfnXreUId1_VMd4O7WpLQvNWOxj4; expires=Wed, 26-Nov-2025 04:11:26 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=524=GJHeA8g4aL7XDHQc35BeywFSw6bLXJ5uCgKHanb4IQUgwJuswOAMk6PLlmRJwJw9qbw5s4SR82lmp_wdmjeIg3gEXLTCXYTdCvPMVOdrNmuwq9rfeAjlPRqP2ZNKzXztbhx6gIfK9QQ01NcuW33YHFUcZSzZElB90nC3174ELRwiYlFQFI7QAt8XQRWc3e9YTP4MhSiQDdWcOYMS7afJCqY; expires=Sat, 29-Nov-2025 04:11:26 GMT; path=/; domain=.google.com; HttpOnly',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    'transfer-encoding': 'chunked'
+  },
+  body: ReadableStream { locked: false, state: 'readable', supportsBYOB: true },
+  bodyUsed: false,
+  ok: true,
+  redirected: true,
+  type: 'cors',
+  url: 'https://www.google.com/'
+}
+SUSHI Response {
+  status: 200,
+  statusText: 'OK',
+  headers: Headers {
+    date: 'Fri, 30 May 2025 04:11:26 GMT',
+    expires: '-1',
+    'cache-control': 'private, max-age=0',
+    'content-type': 'text/html; charset=ISO-8859-1',
+    'content-security-policy-report-only': "object-src 'none';base-uri 'self';script-src 'nonce-DkKKgBNmUT9f26i2WCITRQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp",
+    'accept-ch': 'Sec-CH-Prefers-Color-Scheme',
+    p3p: 'CP="This is not a P3P policy! See g.co/p3phelp for more info."',
+    'content-encoding': 'gzip',
+    server: 'gws',
+    'x-xss-protection': '0',
+    'x-frame-options': 'SAMEORIGIN',
+    'set-cookie': 'AEC=AVh_V2j1EjfwDPbAvDt7jMaGB1a76ZJDfnXreUId1_VMd4O7WpLQvNWOxj4; expires=Wed, 26-Nov-2025 04:11:26 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=524=GJHeA8g4aL7XDHQc35BeywFSw6bLXJ5uCgKHanb4IQUgwJuswOAMk6PLlmRJwJw9qbw5s4SR82lmp_wdmjeIg3gEXLTCXYTdCvPMVOdrNmuwq9rfeAjlPRqP2ZNKzXztbhx6gIfK9QQ01NcuW33YHFUcZSzZElB90nC3174ELRwiYlFQFI7QAt8XQRWc3e9YTP4MhSiQDdWcOYMS7afJCqY; expires=Sat, 29-Nov-2025 04:11:26 GMT; path=/; domain=.google.com; HttpOnly',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    'transfer-encoding': 'chunked'
+  },
+  body: ReadableStream { locked: false, state: 'readable', supportsBYOB: true },
+  bodyUsed: false,
+  ok: true,
+  redirected: true,
+  type: 'cors',
+  url: 'https://www.google.com/'
+} Response {
+  status: 200,
+  statusText: 'OK',
+  headers: Headers {
+    date: 'Fri, 30 May 2025 04:11:26 GMT',
+    expires: '-1',
+    'cache-control': 'private, max-age=0',
+    'content-type': 'text/html; charset=ISO-8859-1',
+    'content-security-policy-report-only': "object-src 'none';base-uri 'self';script-src 'nonce-eTloh3Be4rVpo_g91X3UTQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp",
+    'accept-ch': 'Sec-CH-Prefers-Color-Scheme',
+    p3p: 'CP="This is not a P3P policy! See g.co/p3phelp for more info."',
+    'content-encoding': 'gzip',
+    server: 'gws',
+    'x-xss-protection': '0',
+    'x-frame-options': 'SAMEORIGIN',
+    'set-cookie': 'AEC=AVh_V2ikeYUZlbcnsQnmTFFRWkHI_ZomXfSItmstcTFhV-vVyKR3HB4mTw; expires=Wed, 26-Nov-2025 04:11:26 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=524=XPqJc731RIL22miOAZ6Orc-HJQSJyGjXr4kovS-xnzS-5kwIKQsn8Ht3hR3w5wlWpJdvNcoez-_MJNaRITxkNwtVGFHfcDVC1zsN7Qm37sCOYZY0HIkQ7SpIzWOX5x0Nq-Hrf6HeudyDNiwNb_wB-e7UeRVASIKcCh68Obj0H1L0Ht7kTd3LyLLBTAu3YVuwZUZ47oZgcYj9bw5r1GGsh5Q; expires=Sat, 29-Nov-2025 04:11:26 GMT; path=/; domain=.google.com; HttpOnly',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    'transfer-encoding': 'chunked'
+  },
+  body: ReadableStream { locked: false, state: 'readable', supportsBYOB: true },
+  bodyUsed: false,
+  ok: true,
+  redirected: true,
+  type: 'cors',
+  url: 'https://www.google.com/'
+}
