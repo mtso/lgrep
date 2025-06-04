@@ -50,9 +50,6 @@ pub fn main() !u8 {
         return 1;
     };
 
-    var line_buffer = std.ArrayList(u8).init(allocator);
-    defer line_buffer.deinit();
-
     var line_cache = std.ArrayList([]u8).init(allocator);
     defer line_cache.deinit();
 
@@ -63,7 +60,6 @@ pub fn main() !u8 {
     while (true) {
         // std.debug.print("input: {?}\n", .{line});
         line += 1;
-        line_buffer.clearRetainingCapacity();
         const read_result = try stdin.readUntilDelimiterOrEofAlloc(allocator, '\n', 4096 * 16);
         if (read_result == null) break;
 
